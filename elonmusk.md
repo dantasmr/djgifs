@@ -50,3 +50,14 @@ AbrirOpen
 A Microsoft Corp disse que adicionará o bot de inteligência artificial viral ChatGPT da OpenAI ao seu serviço Azure baseado em nuvem “em breve”, construindo um relacionamento existente entre as duas empresas, enquanto a Microsoft pondera adquirir uma participação muito maior na OpenAI.
 
 https://www.bloomberg.com/news/articles/2023-01-17/microsoft-azure-to-add-chatgpt-to-cloud-services
+
+
+Flutter é um framework de desenvolvimento de aplicativos móveis open-source criado pela Google. Ele permite aos desenvolvedores criar aplicativos nativos para as plataformas iOS e Android usando uma única base de código.
+
+Flutter utiliza o Dart como linguagem de programação e oferece uma série de widgets prontos para uso, o que facilita a criação de interfaces de usuário atraentes e intuitivas. Ele também possui recursos avançados como suporte para animações, roteamento de telas e gerenciamento de estado.
+
+Um dos principais benefícios do Flutter é a sua alta performance, pois ele desenha os elementos da interface diretamente no canvas do dispositivo, sem depender de componentes nativos. Isso também significa que ele não precisa de bridges para comunicar-se com o sistema operacional, o que reduz o tempo de desenvolvimento e melhora a fluidez do aplicativo.
+
+Além disso, o Flutter tem uma comunidade ativa e crescente, o que significa que há muitos recursos e pacotes disponíveis para os desenvolvedores. Ele também é compatível com vários plugins e bibliotecas existentes, o que facilita a integração com outras ferramentas e serviços.
+
+Em resumo, o Flutter é uma excelente opção para desenvolvedores que procuram criar aplicativos móveis de alta qualidade para as plataformas iOS e Android, com menos esforço de desenvolvimento e tempo de execução. Ele oferece uma série de recursos avançados e uma comunidade ativa e crescente para suportar os desenvolvedores.
